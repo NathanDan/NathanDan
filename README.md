@@ -1,8 +1,11 @@
 ### Hi there I'm Nathan 👋
-👨🏻‍💻 I am a Sr Associate Analytical Technical Support Engineer @ SAS.
-👨🏻‍🎓 I have a BSc (Hons) and MSc in Computer Science. 
-⚡ I am intreseted in all things that involve data by creating visual representations to identify trends and patterns within.  
-📫 Reach out to me on LinkedIn (https://www.linkedin.com/in/nathan-jones-001/).
+👨🏻‍💻 I am a Sr Associate Analytical Technical Support Engineer @ SAS
+
+👨🏻‍🎓 I have a BSc (Hons) and MSc in Computer Science 
+
+⚡ I am intreseted in all things that involve data by creating visual representations to identify trends and patterns within
+
+📫 Reach out to me on LinkedIn (https://www.linkedin.com/in/nathan-jones-001/)
 
 
 <!--
